@@ -5,8 +5,6 @@
 <h1 align="center">Hi 👋, I'm Nikhil Kumar Mishra</h1>
 <h3 align="center">🚀 Aspiring Full Stack Developer | Java • Spring Boot • React | From India 🇮🇳</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-
 ---
 
 <p align="left">
@@ -14,7 +12,7 @@
 </p>
 
 ---
-
+<img align="right" alt="coding" width="320" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 ### 🌟 About Me
 
 - 🔭 I’m currently working on **Web-based Handwritten Digit Recognition**
